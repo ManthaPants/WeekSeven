@@ -3,15 +3,13 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "start": "react-native start",
-    "web": "react-scripts start",
     "android": "react-native run-android",
     "ios": "react-native run-ios",
     "lint": "eslint .",
     "start": "react-native start",
     "test": "jest",
     "build": "echo 'Build step is not required'",
-    "install": "npm install",
+    "install": "npm install"
   },
   "dependencies": {
     "axios": "^1.4.0",
